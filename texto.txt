@@ -2,4 +2,9 @@ Olá boa noite pessoal, eu sou o Feliz.
 Olá eu sou uma nova linha de código.
 Olá sou a terceira linha de código.
 
+<<<<<<< HEAD
 
+=======
+Boa tarde, Rafael. Eu falei  com o Anderson, e ele me disse que se você estier precisando, eu posso ir trabalhar com você já esta semana.
+É só falar com o Sr. Wilson França.
+>>>>>>> staging
